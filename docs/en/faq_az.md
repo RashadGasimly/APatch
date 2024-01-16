@@ -1,7 +1,7 @@
 # FAQ
 
 
-## What is APatch?
+## What isAPatch?
 APatch is a root solution similar to Magisk or KernelSU that unites the best of both.
 It combines Magisk's convenient and easy install method through `boot.img` with KernelSU's powerful kernel patching abilities.
 
